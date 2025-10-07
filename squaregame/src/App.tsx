@@ -7,7 +7,7 @@ const colors = [
   "white",
   "red",
   "green",
-  "orange",
+  "blue",
   "black",
 ];
 const Square = (props: any) => {
